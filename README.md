@@ -7,8 +7,8 @@ Some challenges in Python for job interviews.
 ---
 * walking-robot.py
 
-	A robot which can move down and right is traversing some terrain that can be represented as a hex grid. 
-	Find the least cost path from top left to bottom right through such a grid. 
+	A robot which can move down and right is traversing some terrain that can be represented as a hex grid.
+	Find the least cost path from top left to bottom right through such a grid.
 	Return the path for the robot to follow.
 
 
@@ -33,3 +33,24 @@ Sample output
 r,r,d,d,r,d,d,r,r,d
 
 **Bonus:** Consider allowing the robot to move up and left.
+
+
+---
+* 7-seg.py
+
+	Complete description on this url:
+	https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=307&page=show_problem&problem=2363
+
+
+Sample Input
+------------
+010079010+010079=
+106010+010=
+BYE
+
+
+Sample Output
+-------------
+010079010+010079=010106106
+106010+010=106093
+
