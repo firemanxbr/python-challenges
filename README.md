@@ -1,7 +1,7 @@
 Python Challenges
 =================
 
-Some challenges in Python for job interviews.
+Sample Python coding challenges
 
 
 ---
