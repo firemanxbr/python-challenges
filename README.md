@@ -5,6 +5,16 @@ Sample Python coding challenges
 
 
 ---
+* nested_arrays.py
+* nested_arrays_test.py
+* invite_customers.py
+* invite_customers_test.py
+* customers.json
+
+	The report about  a challenge of my last job interview.
+
+
+---
 * walking-robot.py
 
 	A robot which can move down and right is traversing some terrain that can be represented as a hex grid.
